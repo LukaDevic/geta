@@ -1,0 +1,15 @@
+body {
+    background-image: url("NYcity.jpg");
+    background-size: cover;
+}
+
+h3 {
+    position: absolute;
+    top: 70px;
+}
+
+.table {
+    position: absolute;
+    top: 150px;
+}
+
